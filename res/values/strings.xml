@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Spiewnik</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="alfabetycznie">Alfabetycznie</string>
+    <string name="wedlugStron">Według stron</string>
+    <string name="wedlugkolorow">Według kolorów/etapów</string>
+    <string name="zestawyPiesni">Zestawy pieśni</string>
+    <string name="wlasnaLista">Własny zestaw</string>
+    <string name="about">O aplikacji</string>
+
+</resources>
